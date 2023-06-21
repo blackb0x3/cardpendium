@@ -1,2 +1,1 @@
-# cardpendium
-Source code for the Cardpendium app.
+# Cardpendium - Orgainse, Strategise, Win.
