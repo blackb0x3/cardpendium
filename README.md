@@ -1,1 +1,1 @@
-# Cardpendium - Orgainse, Strategise, Win.
+# Cardpendium - Organise, Strategise, Win.
